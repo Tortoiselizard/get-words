@@ -1,0 +1,109 @@
+#separator:tab
+#html:false
+get       Pronunciación_figurada get      verbo	conseguir/llegar conseguir cosas por la jeta
+get in       Pronunciación_figurada gétin      verbo	montar/entrar/subir si en un pequeño vehículo te quieres montar, primero la geta en él habras de entrar
+rest       Pronunciación_figurada rrest      verbo	descansar un glotón deja el resto de comida porque va a descansar
+clean       Pronunciación_figurada klin      verbo	limpiar un clan mafioso se pone a limpiar una casa tras haberla manchado de sangre después de una limpia
+leave       Pronunciación_figurada li:f      verbo	dejar/salir le a ve la puerta para dejar salir libre a la liebre en la lava de un volcán
+begin       Pronunciación_figurada bigín      verbo	empezar Don Ramón le pega al chavo del 8 (pikín) para que empiece a correr en una carrera de los 100 metros
+package       Pronunciación_figurada pákech      sustantivo	paquete *es muy similar*
+bag       Pronunciación_figurada ba:k      sustantivo	bols@ un bago tan flojo que lleva el morral arrastrandolo por el suelo
+ship       Pronunciación_figurada shep      sustantivo	barco/nave un barco vikingo con forma de chip. sus finas patitas son los remos
+stairs       Pronunciación_figurada sté:rs      sustantivo	escaleras la prima ester callendo por las escaleras
+chair       Pronunciación_figurada che:*      sustantivo	silla una silla baila cha cha cha, y de un salto se va al aire
+shower       Pronunciación_figurada shawe*      sustantivo	ducha de una ducha sale una soga en vez de agua
+stove       Pronunciación_figurada stó:uf      sustantivo	cocina (aparato) un cocinero que arranca la cocina porque le estorba
+glass       Pronunciación_figurada gla:s      sustantivo	"vaso un chino fregando y quejándose ""vaso tene mucha glasa"""
+knife       Pronunciación_figurada naif      sustantivo	cuchillo  cortar con un cuchillo la tierra hasta llegar al NIFE (su centro)
+language       Pronunciación_figurada lénguish      sustantivo	idioma lenguaje es lo mismo que el idioma
+rice       Pronunciación_figurada rais      sustantivo	arroz alguien que cuando se ríe bota arroz por la boca
+river       Pronunciación_figurada ríve*      sustantivo	río  a raiven (LOL) le encata hacer ganks en el rio
+guy       Pronunciación_figurada gá:i      sustantivo	chico cada vez mas chicos intentan ser gays
+truth       Pronunciación_figurada t*uz      sustantivo	verdad si es verdad es porque no existe ningún truco
+size       Pronunciación_figurada sá:is      sustantivo	talla seis tallas distintas usaban los enanitos ¿o eran siete?
+air       Pronunciación_figurada e:*      sustantivo	aire *es muy similar*
+noise       Pronunciación_figurada nóis      sustantivo	ruido un hombre hace mucho ruido cundo lo torturan. y grita no hice nada.
+better       Pronunciación_figurada béte*      adjetivo	mejor estás en una fiesta de gala pero estás con ropa de playa. Mejor vete
+lesser       Pronunciación_figurada lése*      adjetivo	menor ... pero su alumno menor se lessiona al intentar abrirse, pues él se abre menos
+hard       Pronunciación_figurada ha*d      adjetivo	duro alguien agarra el hardware de su pc y la golpea con todas sus fuerzas pero no le hace nada. es muy duro
+nice       Pronunciación_figurada náis      adjetivo	agradable/fino/bueno un simpático patico que corre con zapatos nike
+sad       Pronunciación_figurada sa:d      adjetivo	triste los sádicos se la pasan tristes porque la sociedad los reprime
+fair       Pronunciación_figurada fe:*      adverbio	justo un universo alterno donde todos en la Liga de la justicia son feos
+never       Pronunciación_figurada néve*      adverbio	nunca Veo nevar nucas en vez de copitos de hielo
+like this       Pronunciación_figurada laikdís      adverbio	"así Significa ""como esto"", ""de este modo"""
+outside       Pronunciación_figurada aútsaid      adverbio	fuera lado (side) de afuera (out)
+quickly       Pronunciación_figurada kuíkli      adverbio	deprisa Un gallo tartamudo camina deprisa por la calle apartando a los peatones: qui qui  quita del medio
+improve       Pronunciación_figurada imprú:f      verbo	mejorar los raperos tienen que improvisar para que puedan mejorar
+goal       Pronunciación_figurada goa:l      sustantivo	meta/objetivo cuando metes un goal significa que lograste tu objetivo de meter el balón en la meta
+soon       Pronunciación_figurada su:n      adverbio	pronto cuando envías algo por zoom te llega pronto gracias a que los canguros lo llevan rapido
+both       Pronunciación_figurada bóuz      pronombre	amb@s tanto Buzz Lightyear como Zurg, ambos son la misma persona
+join       Pronunciación_figurada llóin      verbo	unir/juntar el método `array.join()` junta todo el array en un único string.
+there is       Pronunciación_figurada de*ís      verbo	hay
+feel       Pronunciación_figurada fi:l      verbo	sentir
+like       Pronunciación_figurada láik      verbo	gustar
+say       Pronunciación_figurada séi      verbo	decir
+make       Pronunciación_figurada méik      verbo	fabricar/hacer
+know       Pronunciación_figurada nou      verbo	saber
+understand       Pronunciación_figurada ande*stánd      verbo	comprender
+come       Pronunciación_figurada kam      verbo	venir
+wait       Pronunciación_figurada weit      verbo	esperar
+drink       Pronunciación_figurada drink      verbo	beber
+pay       Pronunciación_figurada péi      verbo	pagar
+find       Pronunciación_figurada faind      verbo	encontrar
+weigh       Pronunciación_figurada wéi      verbo	pesar
+call       Pronunciación_figurada kao:l      verbo	llamar
+fix       Pronunciación_figurada fix      verbo	arreglar
+way       Pronunciación_figurada wei      sustantivo	camino
+ticket       Pronunciación_figurada tíket      sustantivo	ticket
+key       Pronunciación_figurada ki:      sustantivo	llave
+table       Pronunciación_figurada téibl      sustantivo	mesa
+bed       Pronunciación_figurada be:d      sustantivo	cama
+example       Pronunciación_figurada exémpl      sustantivo	ejemplo
+end       Pronunciación_figurada end      sustantivo	fin (final)
+business       Pronunciación_figurada bísnes      sustantivo	empresa
+gift       Pronunciación_figurada gift      sustantivo	regalo
+money       Pronunciación_figurada máni      sustantivo	dinero
+university       Pronunciación_figurada iunivérsiti      sustantivo	universidad
+chicken       Pronunciación_figurada chíkaen      sustantivo	pollo
+fruit       Pronunciación_figurada fru:t      sustantivo	fruta
+ice cream       Pronunciación_figurada áiscrim      sustantivo	helado
+water       Pronunciación_figurada wáte*      sustantivo	agua
+news       Pronunciación_figurada niu:s      sustantivo	noticia
+father       Pronunciación_figurada fáde*      sustantivo	padre
+doctor       Pronunciación_figurada dócto*      sustantivo	médico
+people       Pronunciación_figurada pípol      sustantivo	gente
+metal       Pronunciación_figurada métal      sustantivo	metal
+date       Pronunciación_figurada déit      sustantivo	fecha
+yesterday       Pronunciación_figurada lléste*dei      sustantivo	ayer
+night       Pronunciación_figurada náit      sustantivo	noche
+sunday       Pronunciación_figurada sándei      sustantivo	domingo
+december       Pronunciación_figurada disémbe*      sustantivo	diciembre
+sun       Pronunciación_figurada saon      sustantivo	sol
+cold       Pronunciación_figurada cóuld      sustantivo	frío/resfriado
+head       Pronunciación_figurada he:d      sustantivo	cabeza
+dog       Pronunciación_figurada daog      sustantivo	perro
+small       Pronunciación_figurada smaó:l      adjetivo	pequeño
+beautiful       Pronunciación_figurada biútifoul      adjetivo	bello
+hot       Pronunciación_figurada haot      adjetivo	caliente
+easy       Pronunciación_figurada ísi      adjetivo	fácil
+alone       Pronunciación_figurada alóun      adjetivo	solo
+strong       Pronunciación_figurada stróng      adjetivo	fuerte
+white       Pronunciación_figurada wait      adjetivo	blanco
+sometimes       Pronunciación_figurada sámtaims      adverbio	a veces
+nothing       Pronunciación_figurada naózink      adverbio	nada
+next       Pronunciación_figurada next      adverbio	siguiente
+there       Pronunciación_figurada de:*      adverbio	ahí, allí
+hello       Pronunciación_figurada helóu      interjección	hola
+thank you       Pronunciación_figurada zaénkiu      adverbio	gracias
+how       Pronunciación_figurada háu      pronombre interrogativo	cómo
+you       Pronunciación_figurada iu      pronombre personal	tú/usted(es)
+your       Pronunciación_figurada llo:*      pronombre posesivo	tu/su/vuestro
+that       Pronunciación_figurada dat      pronombre demostrativo	ese, esa, eso
+a       Pronunciación_figurada a      artículo	un, una, unos, unas
+for       Pronunciación_figurada fo:*      preposicion	para, por
+one       Pronunciación_figurada uan      número	uno
+second       Pronunciación_figurada sékeond      número	segundo
+are       Pronunciación_figurada a*      verbo	ser/estar (tu, ustedes, nosotros, ellos)
+low       Pronunciación_figurada low      adjetivo	bajo
+usually       Pronunciación_figurada iúshuali      adverbio	usualmente
+fluently       Pronunciación_figurada flúentli      adverbio	fluidamente/ con fluidez
