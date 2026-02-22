@@ -14,8 +14,8 @@ if (!archivoEntrada) {
 // Define el nombre del archivo de salida
 const archivoSalida = 'words.txt';
 
-// Usa un Set para almacenar las palabras que ya hemos visto y evitar duplicados
-const palabrasVistas = new Set();
+// Usa un array para almacenar las palabras que ya hemos visto
+const palabrasVistas = [];
 
 try {
   // Lee todo el contenido del archivo de forma síncrona
@@ -39,11 +39,9 @@ try {
     const englishWord = match[1].trim();
     const spanishWord = match[2].trim();
 
-    // Si la palabra en inglés no está en el Set, la agregamos y la escribimos en el archivo
-    if (!palabrasVistas.has(englishWord)) {
-      palabrasVistas.add(englishWord);
-      streamEscritura.write(`${englishWord}: ${spanishWord}\n`);
-    }
+    // Agregamos la palabra en palabrasVistas y la escribimos en el archivo
+    palabrasVistas.push(englishWord);
+    streamEscritura.write(`${englishWord}: ${spanishWord}\n`);
   }
 
   // Cierra el stream de escritura
