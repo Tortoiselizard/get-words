@@ -1426,7 +1426,7 @@ Pronunciación_figurada</a>
 </div>
 <div class=word_type>
   adjetivo
-</div>"	"<div class=spanish_word>feliz, alegre</div>
+</div>"	"<div class=spanish_word>feliz/alegre</div>
 <div class=relationship>*listo</div>"
 "<div class=english_word>
   color
@@ -1647,7 +1647,7 @@ Pronunciación_figurada</a>
 </div>
 <div class=word_type>
   pronombre demostrativo
-</div>"	"<div class=spanish_word>este, esta, esto</div>
+</div>"	"<div class=spanish_word>este/esta/esto</div>
 <div class=relationship>*listo</div>"
 "<div class=english_word>
   the
@@ -1664,7 +1664,7 @@ Pronunciación_figurada</a>
 </div>
 <div class=word_type>
   artículo
-</div>"	"<div class=spanish_word>el, la(s), lo(s)</div>
+</div>"	"<div class=spanish_word>el/la(s)/lo(s)</div>
 <div class=relationship>*listo</div>"
 "<div class=english_word>
   to

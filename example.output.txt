@@ -80,7 +80,7 @@ body: cuerpo
 animal: animal
 good: bueno
 smart: listo (inteligente)
-happy: feliz, alegre
+happy: feliz/alegre
 color: color
 yes: sí
 no: no
@@ -93,8 +93,8 @@ please: por favor
 what: qué
 I: yo
 my: mi
-this: este, esta, esto
-the: el, la(s), lo(s)
+this: este/esta/esto
+the: el/la(s)/lo(s)
 to: a/hacia/para
 ten: diez
 first: primero
