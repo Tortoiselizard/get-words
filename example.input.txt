@@ -1,109 +1,2042 @@
 #separator:tab
-#html:false
-get       Pronunciación_figurada get      verbo	conseguir/llegar conseguir cosas por la jeta
-get in       Pronunciación_figurada gétin      verbo	montar/entrar/subir si en un pequeño vehículo te quieres montar, primero la geta en él habras de entrar
-rest       Pronunciación_figurada rrest      verbo	descansar un glotón deja el resto de comida porque va a descansar
-clean       Pronunciación_figurada klin      verbo	limpiar un clan mafioso se pone a limpiar una casa tras haberla manchado de sangre después de una limpia
-leave       Pronunciación_figurada li:f      verbo	dejar/salir le a ve la puerta para dejar salir libre a la liebre en la lava de un volcán
-begin       Pronunciación_figurada bigín      verbo	empezar Don Ramón le pega al chavo del 8 (pikín) para que empiece a correr en una carrera de los 100 metros
-package       Pronunciación_figurada pákech      sustantivo	paquete *es muy similar*
-bag       Pronunciación_figurada ba:k      sustantivo	bols@ un bago tan flojo que lleva el morral arrastrandolo por el suelo
-ship       Pronunciación_figurada shep      sustantivo	barco/nave un barco vikingo con forma de chip. sus finas patitas son los remos
-stairs       Pronunciación_figurada sté:rs      sustantivo	escaleras la prima ester callendo por las escaleras
-chair       Pronunciación_figurada che:*      sustantivo	silla una silla baila cha cha cha, y de un salto se va al aire
-shower       Pronunciación_figurada shawe*      sustantivo	ducha de una ducha sale una soga en vez de agua
-stove       Pronunciación_figurada stó:uf      sustantivo	cocina (aparato) un cocinero que arranca la cocina porque le estorba
-glass       Pronunciación_figurada gla:s      sustantivo	"vaso un chino fregando y quejándose ""vaso tene mucha glasa"""
-knife       Pronunciación_figurada naif      sustantivo	cuchillo  cortar con un cuchillo la tierra hasta llegar al NIFE (su centro)
-language       Pronunciación_figurada lénguish      sustantivo	idioma lenguaje es lo mismo que el idioma
-rice       Pronunciación_figurada rais      sustantivo	arroz alguien que cuando se ríe bota arroz por la boca
-river       Pronunciación_figurada ríve*      sustantivo	río  a raiven (LOL) le encata hacer ganks en el rio
-guy       Pronunciación_figurada gá:i      sustantivo	chico cada vez mas chicos intentan ser gays
-truth       Pronunciación_figurada t*uz      sustantivo	verdad si es verdad es porque no existe ningún truco
-size       Pronunciación_figurada sá:is      sustantivo	talla seis tallas distintas usaban los enanitos ¿o eran siete?
-air       Pronunciación_figurada e:*      sustantivo	aire *es muy similar*
-noise       Pronunciación_figurada nóis      sustantivo	ruido un hombre hace mucho ruido cundo lo torturan. y grita no hice nada.
-better       Pronunciación_figurada béte*      adjetivo	mejor estás en una fiesta de gala pero estás con ropa de playa. Mejor vete
-lesser       Pronunciación_figurada lése*      adjetivo	menor ... pero su alumno menor se lessiona al intentar abrirse, pues él se abre menos
-hard       Pronunciación_figurada ha*d      adjetivo	duro alguien agarra el hardware de su pc y la golpea con todas sus fuerzas pero no le hace nada. es muy duro
-nice       Pronunciación_figurada náis      adjetivo	agradable/fino/bueno un simpático patico que corre con zapatos nike
-sad       Pronunciación_figurada sa:d      adjetivo	triste los sádicos se la pasan tristes porque la sociedad los reprime
-fair       Pronunciación_figurada fe:*      adverbio	justo un universo alterno donde todos en la Liga de la justicia son feos
-never       Pronunciación_figurada néve*      adverbio	nunca Veo nevar nucas en vez de copitos de hielo
-like this       Pronunciación_figurada laikdís      adverbio	"así Significa ""como esto"", ""de este modo"""
-outside       Pronunciación_figurada aútsaid      adverbio	fuera lado (side) de afuera (out)
-quickly       Pronunciación_figurada kuíkli      adverbio	deprisa Un gallo tartamudo camina deprisa por la calle apartando a los peatones: qui qui  quita del medio
-improve       Pronunciación_figurada imprú:f      verbo	mejorar los raperos tienen que improvisar para que puedan mejorar
-goal       Pronunciación_figurada goa:l      sustantivo	meta/objetivo cuando metes un goal significa que lograste tu objetivo de meter el balón en la meta
-soon       Pronunciación_figurada su:n      adverbio	pronto cuando envías algo por zoom te llega pronto gracias a que los canguros lo llevan rapido
-both       Pronunciación_figurada bóuz      pronombre	amb@s tanto Buzz Lightyear como Zurg, ambos son la misma persona
-join       Pronunciación_figurada llóin      verbo	unir/juntar el método `array.join()` junta todo el array en un único string.
-there is       Pronunciación_figurada de*ís      verbo	hay
-feel       Pronunciación_figurada fi:l      verbo	sentir
-like       Pronunciación_figurada láik      verbo	gustar
-say       Pronunciación_figurada séi      verbo	decir
-make       Pronunciación_figurada méik      verbo	fabricar/hacer
-know       Pronunciación_figurada nou      verbo	saber
-understand       Pronunciación_figurada ande*stánd      verbo	comprender
-come       Pronunciación_figurada kam      verbo	venir
-wait       Pronunciación_figurada weit      verbo	esperar
-drink       Pronunciación_figurada drink      verbo	beber
-pay       Pronunciación_figurada péi      verbo	pagar
-find       Pronunciación_figurada faind      verbo	encontrar
-weigh       Pronunciación_figurada wéi      verbo	pesar
-call       Pronunciación_figurada kao:l      verbo	llamar
-fix       Pronunciación_figurada fix      verbo	arreglar
-way       Pronunciación_figurada wei      sustantivo	camino
-ticket       Pronunciación_figurada tíket      sustantivo	ticket
-key       Pronunciación_figurada ki:      sustantivo	llave
-table       Pronunciación_figurada téibl      sustantivo	mesa
-bed       Pronunciación_figurada be:d      sustantivo	cama
-example       Pronunciación_figurada exémpl      sustantivo	ejemplo
-end       Pronunciación_figurada end      sustantivo	fin (final)
-business       Pronunciación_figurada bísnes      sustantivo	empresa
-gift       Pronunciación_figurada gift      sustantivo	regalo
-money       Pronunciación_figurada máni      sustantivo	dinero
-university       Pronunciación_figurada iunivérsiti      sustantivo	universidad
-chicken       Pronunciación_figurada chíkaen      sustantivo	pollo
-fruit       Pronunciación_figurada fru:t      sustantivo	fruta
-ice cream       Pronunciación_figurada áiscrim      sustantivo	helado
-water       Pronunciación_figurada wáte*      sustantivo	agua
-news       Pronunciación_figurada niu:s      sustantivo	noticia
-father       Pronunciación_figurada fáde*      sustantivo	padre
-doctor       Pronunciación_figurada dócto*      sustantivo	médico
-people       Pronunciación_figurada pípol      sustantivo	gente
-metal       Pronunciación_figurada métal      sustantivo	metal
-date       Pronunciación_figurada déit      sustantivo	fecha
-yesterday       Pronunciación_figurada lléste*dei      sustantivo	ayer
-night       Pronunciación_figurada náit      sustantivo	noche
-sunday       Pronunciación_figurada sándei      sustantivo	domingo
-december       Pronunciación_figurada disémbe*      sustantivo	diciembre
-sun       Pronunciación_figurada saon      sustantivo	sol
-cold       Pronunciación_figurada cóuld      sustantivo	frío/resfriado
-head       Pronunciación_figurada he:d      sustantivo	cabeza
-dog       Pronunciación_figurada daog      sustantivo	perro
-small       Pronunciación_figurada smaó:l      adjetivo	pequeño
-beautiful       Pronunciación_figurada biútifoul      adjetivo	bello
-hot       Pronunciación_figurada haot      adjetivo	caliente
-easy       Pronunciación_figurada ísi      adjetivo	fácil
-alone       Pronunciación_figurada alóun      adjetivo	solo
-strong       Pronunciación_figurada stróng      adjetivo	fuerte
-white       Pronunciación_figurada wait      adjetivo	blanco
-sometimes       Pronunciación_figurada sámtaims      adverbio	a veces
-nothing       Pronunciación_figurada naózink      adverbio	nada
-next       Pronunciación_figurada next      adverbio	siguiente
-there       Pronunciación_figurada de:*      adverbio	ahí, allí
-hello       Pronunciación_figurada helóu      interjección	hola
-thank you       Pronunciación_figurada zaénkiu      adverbio	gracias
-how       Pronunciación_figurada háu      pronombre interrogativo	cómo
-you       Pronunciación_figurada iu      pronombre personal	tú/usted(es)
-your       Pronunciación_figurada llo:*      pronombre posesivo	tu/su/vuestro
-that       Pronunciación_figurada dat      pronombre demostrativo	ese, esa, eso
-a       Pronunciación_figurada a      artículo	un, una, unos, unas
-for       Pronunciación_figurada fo:*      preposicion	para, por
-one       Pronunciación_figurada uan      número	uno
-second       Pronunciación_figurada sékeond      número	segundo
-are       Pronunciación_figurada a*      verbo	ser/estar (tu, ustedes, nosotros, ellos)
-low       Pronunciación_figurada low      adjetivo	bajo
-usually       Pronunciación_figurada iúshuali      adverbio	usualmente
-fluently       Pronunciación_figurada flúentli      adverbio	fluidamente/ con fluidez
+#html:true
+"<div class=english_word>
+  travel
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcd58c89e181f23c5').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcd58c89e181f23c5"" class=hint style=""display: none"">travl</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>viajar</div>
+<div class=relationship>muchos niños <u>traviesos</u> <b>viajando</b> en el tren. como son tan <u>traviesos</u> quitan las <u>traviesas</u> de la vía</div>"
+"<div class=english_word>
+  tire
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint1893ee161174ef64').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint1893ee161174ef64"" class=hint style=""display: none"">tái*</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>cansar</div>
+<div class=relationship>después de <u>tira</u>r varias veces uno queda muy <b>cansado</b></div>"
+"<div class=english_word>
+  have
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintbc29faf0d1436fe2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintbc29faf0d1436fe2"" class=hint style=""display: none"">ha:f</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>tener</div>
+<div class=relationship>veo a un <u>ave</u> <b>tomar</b> una copa</div>"
+"<div class=english_word>
+  take
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6ef6164147e6d957').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6ef6164147e6d957"" class=hint style=""display: none"">téik</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>llevar</div>
+<div class=relationship><b>llevar</b> un pesado <u>taco</u> de billar al hombro</div>"
+"<div class=english_word>
+  put
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6d6ffbbe98a34d28').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6d6ffbbe98a34d28"" class=hint style=""display: none"">put</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>poner</div>
+<div class=relationship>cuanto más <u>puta</u> sea una gallina, más huevos podra <b>poner</b></div>"
+"<div class=english_word>
+  plane
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinte883f3128441ffc8').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinte883f3128441ffc8"" class=hint style=""display: none"">plein</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>avión</div>
+<div class=relationship>un <b>avion</b> <u>planea</u>, por lo que es en sí, <u>plein</u>amente, un aero<u>plano</u></div>"
+"<div class=english_word>
+  seat
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint3569d10d24711029').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint3569d10d24711029"" class=hint style=""display: none"">si:t</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>asiento</div>
+<div class=relationship>una <u>saeta</u> de fuego con un enorme <b>asiento</b> en el centro.</div>"
+"<div class=english_word>
+  plate
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint80e7d6ec662e3b52').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint80e7d6ec662e3b52"" class=hint style=""display: none"">pléit</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>plato</div>
+<div class=relationship>*es muy similar*</div>"
+"<div class=english_word>
+  silverware
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint345cae63d33e6b08').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint345cae63d33e6b08"" class=hint style=""display: none"">sílvew<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>cubierto</div>
+<div class=relationship>los <b>cubiertos</b> se ponen en la mesa tras <u>silv</u>ar</div>"
+"<div class=english_word>
+  country
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint21a6d507a7096696').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint21a6d507a7096696"" class=hint style=""display: none"">kántri</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>país</div>
+<div class=relationship>la música <u>country</u> terminara uniendo a todos los <b>paises</b> con la pangea inversa</div>"
+"<div class=english_word>
+  store
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint914c385e651441fe').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint914c385e651441fe"" class=hint style=""display: none"">sto*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>tienda</div>
+<div class=relationship>en la <b>tienda</b>, un tendero cuenta una hi<u>storia</u> sobre <u>chopos</u> a sus clientes para que compren</div>"
+"<div class=english_word>
+  price
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint12d2797b0d834061').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint12d2797b0d834061"" class=hint style=""display: none"">prais</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>precio</div>
+<div class=relationship>*es muy similar*</div>"
+"<div class=english_word>
+  bread
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint4d64037500d639f8').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint4d64037500d639f8"" class=hint style=""display: none"">bred</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>pan</div>
+<div class=relationship>veo <u>brotar</u> <b>pan</b> por todas partes</div>"
+"<div class=english_word>
+  meat
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint78c16a71379d3260').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint78c16a71379d3260"" class=hint style=""display: none"">mit</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>carne</div>
+<div class=relationship>un delgaducho sin hambre solo se come la <u>mit</u>ad de un filete de <b>carne</b></div>"
+"<div class=english_word>
+  dessert
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint5d61ee39f52e2295').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint5d61ee39f52e2295"" class=hint style=""display: none"">desé*t</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>postre</div>
+<div class=relationship>tomar un jugoso <b>postre</b> de frutas en el <u>desierto</u></div>"
+"<div class=english_word>
+  clothes
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintb4e32feffe7a4eb4').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintb4e32feffe7a4eb4"" class=hint style=""display: none"">cló<u>u</u>ds</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>ropa</div>
+<div class=relationship>un <u>closet</u> que esta tan lleno de <b>ropa</b> que va a reventar</div>"
+"<div class=english_word>
+  weather
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintbc0a8f83e87ceccb').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintbc0a8f83e87ceccb"" class=hint style=""display: none"">wéd<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>tiempo (clima)</div>
+<div class=relationship>el bagabundo que <u>iede</u> usa el mal <b>tiempo</b> para bañarse</div>"
+"<div class=english_word>
+  greater
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint86d6287727d405cf').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint86d6287727d405cf"" class=hint style=""display: none"">gréit<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>mayor</div>
+<div class=relationship>un abuelo muy <b>mayor</b> <u>grita</u> abierto de piernas en el <u>crater</u> de un volcán </div>"
+"<div class=english_word>
+  pretty
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint949cccb8cc092d80').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint949cccb8cc092d80"" class=hint style=""display: none"">príti</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>bonito</div>
+<div class=relationship><u>pretty</u> woman es mujer <b>bonita</b></div>"
+"<div class=english_word>
+  clean
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint48261045272ac820').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint48261045272ac820"" class=hint style=""display: none"">klin</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>limpio</div>
+<div class=relationship><u>clean</u> = <b>limpio</b> o <b>limpiar</b></div>"
+"<div class=english_word>
+  young
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintdcd6af6dbc9eac3c').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintdcd6af6dbc9eac3c"" class=hint style=""display: none"">llan<u>k</u></div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>joven</div>
+<div class=relationship>el secreto para ser <b>joven</b> esta en el <u>yogurt</u></div>"
+"<div class=english_word>
+  thin
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint1be3a61743685b8d').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint1be3a61743685b8d"" class=hint style=""display: none"">zin</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>fino (delgado)</div>
+<div class=relationship>las laminas de <u>zin</u>c son muy <b>finas</b></div>"
+"<div class=english_word>
+  well
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcee6af77b67ffb41').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcee6af77b67ffb41"" class=hint style=""display: none"">wel</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>bien</div>
+<div class=relationship>Veo un ángel del <b>bien</b>. como todos lo llaman no para de darse la <u>wel</u>ta</div>"
+"<div class=english_word>
+  inside
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint53fdd052253efd49').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint53fdd052253efd49"" class=hint style=""display: none"">insáid</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>dentro</div>
+<div class=relationship>lado (<u>side</u>) de <b>adentro</b> (<u>in</u>)</div>"
+"<div class=english_word>
+  fast
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint3f037b6fe875f5f2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint3f037b6fe875f5f2"" class=hint style=""display: none"">fast</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>rápido</div>
+<div class=relationship><u>flash</u> es muy <b>rápido</b></div>"
+"<div class=english_word>
+  peace
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint45a196621fd0c23a').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint45a196621fd0c23a"" class=hint style=""display: none"">pi:s</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>paz</div>
+<div class=relationship>cuando estás a reventar y lograr hacer <u>pis</u>, logras la verdadera <b>paz</b> interior.</div>"
+"<div class=english_word>
+  let
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintb59dac135f0f3bb8').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintb59dac135f0f3bb8"" class=hint style=""display: none"">let</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>permitir/dejar</div>
+<div class=relationship><u>let</u> me go = <b>dejame</b> irme</div>"
+"<div class=english_word>
+  through
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcf6d4a436fd40704').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcf6d4a436fd40704"" class=hint style=""display: none"">z*u</div>
+
+</div>
+<div class=word_type>
+  preposición
+</div>"	"<div class=spanish_word>mediante/por/a través de</div>
+<div class=relationship><u>Gru</u> usando una <b>media antes</b> de ponerse el zapato, pero la <b>atravies</b>a <b>por</b> sus delgados dedos</div>"
+"<div class=english_word>
+  hold
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint823f324e1f184c4f').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint823f324e1f184c4f"" class=hint style=""display: none"">ho:ld</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>mantener/sostener</div>
+<div class=relationship>Rayan <u>olvidó</u> <b>sostener</b> la cuerda o almenos <b>mantener</b>la prensada y por eso casi me lesiono practicando escalada.</div>"
+"<div class=english_word>
+  pleasant
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintac654a594f5ffcf3').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintac654a594f5ffcf3"" class=hint style=""display: none"">plés<u>e</u>nts</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>agradable</div>
+<div class=relationship>que <b>agradable</b> escuchar <u>please ant</u>es de recibir una orden</div>"
+"<div class=english_word>
+  be
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintff4f9cfba383286d').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintff4f9cfba383286d"" class=hint style=""display: none"">bi:</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>ser/estar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  want
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint066cf4d1e7b83ea7').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint066cf4d1e7b83ea7"" class=hint style=""display: none"">w<u>ao</u>nt</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>querer</div>
+<div class=relationship>todo boxeador quere un guate de oro</div>"
+"<div class=english_word>
+  live
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcf6fa4ec61685a19').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcf6fa4ec61685a19"" class=hint style=""display: none"">lif</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>vivir</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  see
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintdf593d3473752a83').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintdf593d3473752a83"" class=hint style=""display: none"">si:</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>ver</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  speak
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6f0e9b17002e59c8').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6f0e9b17002e59c8"" class=hint style=""display: none"">spik</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>hablar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  can
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6f80f157c29dce31').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6f80f157c29dce31"" class=hint style=""display: none"">k<u>ae</u>n</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>poder</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  do
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint70b9e66e0fcdbb92').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint70b9e66e0fcdbb92"" class=hint style=""display: none"">du</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>hacer</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  work
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcd2cfb9e90d2a104').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcd2cfb9e90d2a104"" class=hint style=""display: none"">w<u>eo</u>*k</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>trabajar/funcionar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  think
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintcf36343e126105fb').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintcf36343e126105fb"" class=hint style=""display: none"">zink</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>pensar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  study
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintaa51d8432e981fbe').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintaa51d8432e981fbe"" class=hint style=""display: none"">stádi</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>estudiar</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  go
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintca47c2173e3f7e22').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintca47c2173e3f7e22"" class=hint style=""display: none"">go<u>u</u></div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>ir</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  walk
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint5c150a0f3727d5eb').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint5c150a0f3727d5eb"" class=hint style=""display: none"">wo:lk</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>caminar/andar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  stop
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintca7d2e0948d7327d').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintca7d2e0948d7327d"" class=hint style=""display: none"">sto:p</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>parar</div>
+<div class=relationship></div>"
+"<div class=english_word>
+  eat
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint3b5fe167a41653f3').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint3b5fe167a41653f3"" class=hint style=""display: none"">i:t</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>comer</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  buy
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintb2753c714e9598b2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintb2753c714e9598b2"" class=hint style=""display: none"">bá:i</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>comprar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  give
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintd188d56a7f4d71b5').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintd188d56a7f4d71b5"" class=hint style=""display: none"">giv</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>dar</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  count
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint537829cc9633ec7e').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint537829cc9633ec7e"" class=hint style=""display: none"">káunt</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>contar</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  allow
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintbf59ffe943e16e99').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintbf59ffe943e16e99"" class=hint style=""display: none""><u>ae</u>láu</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>permitir</div>
+<div class=relationship>Una mala madre que no <b>permite</b> que si hubo se coma un h<u>elado</u>. Le pone la mano cuando se lo va a comer.</div>"
+"<div class=english_word>
+  open
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6f7996151183bb09').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6f7996151183bb09"" class=hint style=""display: none"">o<u>u</u>pen</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>abrir</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  solve
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint2101d8d9fd6a0e15').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint2101d8d9fd6a0e15"" class=hint style=""display: none"">s<u>ao</u>:lf</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>solucionar</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  documentation
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8fa9426c7cfc41af').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8fa9426c7cfc41af"" class=hint style=""display: none"">dakiumentéishon</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>documentación</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  airport
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint12e17fc8dcb6bfb7').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint12e17fc8dcb6bfb7"" class=hint style=""display: none"">é*po*t</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>aeropuerto</div>
+<div class=relationship>air (aire) + port (puerto) = aeropuerto</div>"
+"<div class=english_word>
+  car
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint43cc065aa461066a').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint43cc065aa461066a"" class=hint style=""display: none"">ka:*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>carro</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  stop
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintca7d2e0948d7327d').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintca7d2e0948d7327d"" class=hint style=""display: none"">sto:p</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>parada</div>
+<div class=relationship><u>Stop</u> es la <b>parada</b> de autobuses</div>"
+"<div class=english_word>
+  hotel
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint93ea9a4c4d9e7ed8').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint93ea9a4c4d9e7ed8"" class=hint style=""display: none"">ho<u>u</u>tél</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>hotel</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  number
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintaf00b1fcbfbeb13f').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintaf00b1fcbfbeb13f"" class=hint style=""display: none"">námb<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>número</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  bedroom
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8924aaba448c42b1').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8924aaba448c42b1"" class=hint style=""display: none"">bédrum</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>dormitorio</div>
+<div class=relationship><u>bed</u> (cama) + <u>room</u> (habitación) = habitación para dormir = <b>dormitorio</b></div>"
+"<div class=english_word>
+  bathroom
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8215359469ba3e0f').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8215359469ba3e0f"" class=hint style=""display: none"">bázrum</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>baño</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  kitchen
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint159294bf3c968431').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint159294bf3c968431"" class=hint style=""display: none"">kíchen</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>cocina</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  thing
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint958f84f426069aea').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint958f84f426069aea"" class=hint style=""display: none"">zi:n<u>k</u></div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>cosa</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  street
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinta7306ea1a5c9f024').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinta7306ea1a5c9f024"" class=hint style=""display: none"">strit</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>calle</div>
+<div class=relationship>Street fighters (peleas callejeras)</div>"
+"<div class=english_word>
+  hospital
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinte1a90b9337e27c07').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinte1a90b9337e27c07"" class=hint style=""display: none"">hóspit<u>ae</u>l</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>hospital</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  free
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint65c20f73b8d7a3b1').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint65c20f73b8d7a3b1"" class=hint style=""display: none"">fri:</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>gratis</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  bank
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintc8e9656603d0c983').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintc8e9656603d0c983"" class=hint style=""display: none"">b<u>ae</u>nk</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>banco</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  school
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintc34934ca373600f3').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintc34934ca373600f3"" class=hint style=""display: none"">skú:l</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>escuela</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  fish
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintf0351db2677028ee').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintf0351db2677028ee"" class=hint style=""display: none"">fish</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>pescado</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  coffee
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint2b439cb798aac583').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint2b439cb798aac583"" class=hint style=""display: none"">k<u>aó</u>fi</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>café</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  nature
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint705ae18c4fb04fdb').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint705ae18c4fb04fdb"" class=hint style=""display: none"">néitch<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>naturaleza</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  paper
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint58e06c7af7140e00').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint58e06c7af7140e00"" class=hint style=""display: none"">péip<u>e</u>*</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>papel</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  man
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint590d4cebb7214789').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint590d4cebb7214789"" class=hint style=""display: none"">m<u>ae</u>:n</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>hombre</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  friend
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6703847db366f2b6').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6703847db366f2b6"" class=hint style=""display: none"">frend</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>amigo</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  idea
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint3eb39609fbb1a21f').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint3eb39609fbb1a21f"" class=hint style=""display: none"">aidía</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>idea</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  name
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintf1a51f83ea1e10fe').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintf1a51f83ea1e10fe"" class=hint style=""display: none"">néim</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>nombre</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  material
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint535c5a965f47bca6').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint535c5a965f47bca6"" class=hint style=""display: none"">matírial</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>material</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  time
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintd5a5948e8703a0b5').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintd5a5948e8703a0b5"" class=hint style=""display: none"">táim</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>tiempo</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  today
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint502e2d78bcee4926').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint502e2d78bcee4926"" class=hint style=""display: none"">tudéi</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>hoy</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  week
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint006ed2d4ab1bf2ed').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint006ed2d4ab1bf2ed"" class=hint style=""display: none"">wik</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>semana</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  holiday
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint4132b4b3b737b524').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint4132b4b3b737b524"" class=hint style=""display: none"">h<u>eó</u>lide<u>i</u></div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>dia festivo/fiesta</div>
+<div class=relationship><u>Holis</u> se la pasaba celebrando los <b>días festivos</b></div>"
+"<div class=english_word>
+  month
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint4aa591bd3a836643').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint4aa591bd3a836643"" class=hint style=""display: none"">monz</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>mes</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  body
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintdf4ea4e230cd7405').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintdf4ea4e230cd7405"" class=hint style=""display: none"">b<u>áo</u>di</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>cuerpo</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  animal
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint85c7f5b5f2401bb2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint85c7f5b5f2401bb2"" class=hint style=""display: none""><u>aé</u>nim<u>ae</u>l</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>animal</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  good
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint2dd62b1f0bb31d3c').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint2dd62b1f0bb31d3c"" class=hint style=""display: none"">gud</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>bueno</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  smart
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8f86e24ec61d0bca').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8f86e24ec61d0bca"" class=hint style=""display: none"">smá*t</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>listo (inteligente)</div>
+<div class=relationship><u>Smart</u>phone = teléfono <b>inteligente</b></div>"
+"<div class=english_word>
+  happy
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint956b6f4d2768f402').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint956b6f4d2768f402"" class=hint style=""display: none"">h<u>á</u>pi</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>feliz, alegre</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  color
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint37529db33ca17f63').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint37529db33ca17f63"" class=hint style=""display: none"">cól<u>o</u>*</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>color</div>
+<div class=relationship><u>Hot</u> dog = Perro <b>caliente</b> </div>"
+"<div class=english_word>
+  yes
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintfc9085f54781ef6c').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintfc9085f54781ef6c"" class=hint style=""display: none"">lles</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>sí</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  no
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinta5898c79d12f5074').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinta5898c79d12f5074"" class=hint style=""display: none"">no<u>u</u></div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>no</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  maybe
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint989c7a45a80c3605').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint989c7a45a80c3605"" class=hint style=""display: none"">méibi</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>quizá</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  very
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint48a5abe6c909c2ee').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint48a5abe6c909c2ee"" class=hint style=""display: none"">vé*i</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>muy</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  now
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinta1a3a827f460d9da').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinta1a3a827f460d9da"" class=hint style=""display: none"">ná:<u>u</u></div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>ahora</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  here
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint7435b13b5b44ef3c').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint7435b13b5b44ef3c"" class=hint style=""display: none"">hí<u>e*</u></div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>aquí</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  greet
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintb8e2ceb4cd989bae').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintb8e2ceb4cd989bae"" class=hint style=""display: none"">gri:t</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>saludar</div>
+<div class=relationship>Debes <b>saludar</b> <u>grit</u>ando para asegurarte que te escuchen</div>"
+"<div class=english_word>
+  please
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint611aa6e6dcc5f62b').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint611aa6e6dcc5f62b"" class=hint style=""display: none"">pli:s</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>por favor</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  what
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinta74163b43b7ad259').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinta74163b43b7ad259"" class=hint style=""display: none"">wat</div>
+
+</div>
+<div class=word_type>
+  pronombre interrogativo
+</div>"	"<div class=spanish_word>qué</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  I
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinte6d4ceb8443fa75e').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinte6d4ceb8443fa75e"" class=hint style=""display: none"">á:<u>i</u></div>
+
+</div>
+<div class=word_type>
+  pronombre personal
+</div>"	"<div class=spanish_word>yo</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  my
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint23ea302626f6d356').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint23ea302626f6d356"" class=hint style=""display: none"">mái</div>
+
+</div>
+<div class=word_type>
+  pronombre posesivo
+</div>"	"<div class=spanish_word>mi</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  this
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint3dc3754eb6902021').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint3dc3754eb6902021"" class=hint style=""display: none"">dis</div>
+
+</div>
+<div class=word_type>
+  pronombre demostrativo
+</div>"	"<div class=spanish_word>este, esta, esto</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  the
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintdcf4726c7452442b').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintdcf4726c7452442b"" class=hint style=""display: none"">d<u>ea</u></div>
+
+</div>
+<div class=word_type>
+  artículo
+</div>"	"<div class=spanish_word>el, la(s), lo(s)</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  to
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint383e36f7ad8f7d2f').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint383e36f7ad8f7d2f"" class=hint style=""display: none"">tu</div>
+
+</div>
+<div class=word_type>
+  preposición
+</div>"	"<div class=spanish_word>a/hacia/para</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  ten
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint60c347102a20d4fa').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint60c347102a20d4fa"" class=hint style=""display: none"">ten</div>
+
+</div>
+<div class=word_type>
+  número
+</div>"	"<div class=spanish_word>diez</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  first
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8120ff7899b62111').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8120ff7899b62111"" class=hint style=""display: none"">fe*st</div>
+
+</div>
+<div class=word_type>
+  número
+</div>"	"<div class=spanish_word>primero</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  am
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint8137068185a18311').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint8137068185a18311"" class=hint style=""display: none"">am</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>ser/estar (yo)</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  tire
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintc8541699bfaa5235').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintc8541699bfaa5235"" class=hint style=""display: none"">táir</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>neumático</div>
+<div class=relationship></div>"
+"<div class=english_word>
+  issue
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint63b81f2ae58127db').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint63b81f2ae58127db"" class=hint style=""display: none"">ísh<u>ou</u></div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>problema</div>
+<div class=relationship>unos padres mimando a su bebe ""<u>eessshooo</u>"" porque se metió en <b>problemas</b> en la escuela</div>"
+"<div class=english_word>
+  product
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintf42fb37fa03697c2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintf42fb37fa03697c2"" class=hint style=""display: none"">pr<u>áo</u>dekt</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>producto</div>
+<div class=relationship>*muy similar</div>"
+"<div class=english_word>
+  choose
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintb0c526a2324c7f59').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintb0c526a2324c7f59"" class=hint style=""display: none"">chu:s</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>elegir</div>
+<div class=relationship>Una sala llena de zapatos (<u>shoes</u>) donde tienes que <b>elegir</b> los tuyos</div>"
+"<div class=english_word>
+  loyal
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint9ed677ed6a3bfc4c').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint9ed677ed6a3bfc4c"" class=hint style=""display: none"">lóiel</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>leal</div>
+<div class=relationship>Mi tía <u>Lol</u>a se compra un bulldog muy <b>leal</b></div>"
+"<div class=english_word>
+  skincare
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint98cbc203c3f97b41').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint98cbc203c3f97b41"" class=hint style=""display: none"">skínker</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>cuidado de la piel</div>
+<div class=relationship><u>skin</u> (piel) + <u>care</u> (cuidado) = <b>cuidado de la piel</b></div>"
+"<div class=english_word>
+  forever
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint41887c7066d0a380').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint41887c7066d0a380"" class=hint style=""display: none"">fo*éver</div>
+
+</div>
+<div class=word_type>
+  adverbio
+</div>"	"<div class=spanish_word>para siempre</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  worn out
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint9df61de7cd57c320').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint9df61de7cd57c320"" class=hint style=""display: none"">wó*n áut</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>desgastado</div>
+<div class=relationship><u>Wow</u>, la carroseria del ferrari (<u>auto</u>) se <b>desgastó</b> super rápido al ser lanzado a una piscina de ácido.</div>"
+"<div class=english_word>
+  have
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintbc29faf0d1436fe2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintbc29faf0d1436fe2"" class=hint style=""display: none"">ha:f</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>tomar</div>
+<div class=relationship>veo a un <u>ave</u> <b>tomar</b> una copa</div>"
+"<div class=english_word>
+  have
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintbc29faf0d1436fe2').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintbc29faf0d1436fe2"" class=hint style=""display: none"">ha:f</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>haber</div>
+<div class=relationship>veo a un <u>ave</u> <b>tomar</b> una copa</div>"
+"<div class=english_word>
+  free
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint65c20f73b8d7a3b1').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint65c20f73b8d7a3b1"" class=hint style=""display: none"">fri:</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>libre</div>
+<div class=relationship>*listo</div>"
+"<div class=english_word>
+  take
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6ef6164147e6d957').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6ef6164147e6d957"" class=hint style=""display: none"">téik</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>agarrar</div>
+<div class=relationship><b>llevar</b> un pesado <u>taco</u> de billar al hombro</div>"
+"<div class=english_word>
+  take
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint6ef6164147e6d957').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint6ef6164147e6d957"" class=hint style=""display: none"">téik</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>tardar</div>
+<div class=relationship><b>llevar</b> un pesado <u>taco</u> de billar al hombro</div>"
+"<div class=english_word>
+  effective
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint2fc21b5c7d01aa73').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint2fc21b5c7d01aa73"" class=hint style=""display: none"">aféktif</div>
+
+</div>
+<div class=word_type>
+  adjetivo
+</div>"	"<div class=spanish_word>efectivo</div>
+<div class=relationship>*es muy similar</div>"
+"<div class=english_word>
+  resolve
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint62f632e8fc7c18c0').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint62f632e8fc7c18c0"" class=hint style=""display: none"">risólf</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>resolver</div>
+<div class=relationship>*es muy similar</div>"
+"<div class=english_word>
+  part
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hintffce33749ff136a9').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hintffce33749ff136a9"" class=hint style=""display: none"">part</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>parte</div>
+<div class=relationship>*es muy similar</div>"
+"<div class=english_word>
+  spent
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hint16def64c8bdd15d0').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hint16def64c8bdd15d0"" class=hint style=""display: none"">spent</div>
+
+</div>
+<div class=word_type>
+  verbo
+</div>"	"<div class=spanish_word>gastar (pasado)</div>
+<div class=relationship></div>"
+"<div class=english_word>
+  office
+</div>
+<div class=pronunciation>
+  
+<a class=hint href=""#""
+onclick=""this.style.display='none';
+document.getElementById('hinta975906fcc073131').style.display='block';
+return false;"" draggable=false>
+Pronunciación_figurada</a>
+<div id=""hinta975906fcc073131"" class=hint style=""display: none"">ófis</div>
+
+</div>
+<div class=word_type>
+  sustantivo
+</div>"	"<div class=spanish_word>oficina</div>
+<div class=relationship></div>"

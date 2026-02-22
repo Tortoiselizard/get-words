@@ -1,109 +1,113 @@
-#separator:ta
-#html:fals
-get
-get in
-rest
-clean
-leave
-begin
-package
-bag
-ship
-stairs
-chair
-shower
-stove
-glass
-knife
-language
-rice
-river
-guy
-truth
-size
-air
-noise
-better
-lesser
-hard
-nice
-sad
-fair
-never
-like this
-outside
-quickly
-improve
-goal
-soon
-both
-join
-there is
-feel
-like
-say
-make
-know
-understand
-come
-wait
-drink
-pay
-find
-weigh
-call
-fix
-way
-ticket
-key
-table
-bed
-example
-end
-business
-gift
-money
-university
-chicken
-fruit
-ice cream
-water
-news
-father
-doctor
-people
-metal
-date
-yesterday
-night
-sunday
-december
-sun
-cold
-head
-dog
-small
-beautiful
-hot
-easy
-alone
-strong
-white
-sometimes
-nothing
-next
-there
-hello
-thank you
-how
-you
-your
-that
-a
-for
-one
-second
-are
-low
-usually
-fluently
+travel: viajar
+tire: cansar
+have: tener
+take: llevar
+put: poner
+plane: avión
+seat: asiento
+plate: plato
+silverware: cubierto
+country: país
+store: tienda
+price: precio
+bread: pan
+meat: carne
+dessert: postre
+clothes: ropa
+weather: tiempo (clima)
+greater: mayor
+pretty: bonito
+clean: limpio
+young: joven
+thin: fino (delgado)
+well: bien
+inside: dentro
+fast: rápido
+peace: paz
+let: permitir/dejar
+through: mediante/por/a través de
+hold: mantener/sostener
+pleasant: agradable
+be: ser/estar
+want: querer
+live: vivir
+see: ver
+speak: hablar
+can: poder
+do: hacer
+work: trabajar/funcionar
+think: pensar
+study: estudiar
+go: ir
+walk: caminar/andar
+stop: parar
+eat: comer
+buy: comprar
+give: dar
+count: contar
+allow: permitir
+open: abrir
+solve: solucionar
+documentation: documentación
+airport: aeropuerto
+car: carro
+hotel: hotel
+number: número
+bedroom: dormitorio
+bathroom: baño
+kitchen: cocina
+thing: cosa
+street: calle
+hospital: hospital
+free: gratis
+bank: banco
+school: escuela
+fish: pescado
+coffee: café
+nature: naturaleza
+paper: papel
+man: hombre
+friend: amigo
+idea: idea
+name: nombre
+material: material
+time: tiempo
+today: hoy
+week: semana
+holiday: dia festivo/fiesta
+month: mes
+body: cuerpo
+animal: animal
+good: bueno
+smart: listo (inteligente)
+happy: feliz, alegre
+color: color
+yes: sí
+no: no
+maybe: quizá
+very: muy
+now: ahora
+here: aquí
+greet: saludar
+please: por favor
+what: qué
+I: yo
+my: mi
+this: este, esta, esto
+the: el, la(s), lo(s)
+to: a/hacia/para
+ten: diez
+first: primero
+am: ser/estar (yo)
+issue: problema
+product: producto
+choose: elegir
+loyal: leal
+skincare: cuidado de la piel
+forever: para siempre
+worn out: desgastado
+effective: efectivo
+resolve: resolver
+part: parte
+spent: gastar (pasado)
+office: oficina
